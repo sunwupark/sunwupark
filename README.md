@@ -29,16 +29,10 @@
 <hr>
 
 #### Contact
-
-<a href="https://www.facebook.com/profile.php?id=100006381972108" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-C0C0C0?style=social&logo=Facebook&logoColor=1877F2"/>
-</a>
-<a href="https://www.instagram.com/zzae_uni_._.v/" target="_blank">
+<a href="https://www.instagram.com/sunwupark/" target="_blank">
 <img src="https://img.shields.io/badge/Instagram-C0C0C0?style=social&logo=Instagram&logoColor=E4405F"/>
 </a>
-<a href="https://github.com/qkrwodsbfjq" target="_blank">
+<a href="https://github.com/sunwupark" target="_blank">
 <img src="https://img.shields.io/badge/Github-C0C0C0?style=social&logo=Github&logoColor=181717"/>
 </a>
-<a href="https://zzaeuni.tistory.com/" target="_blank">
-<img src="https://img.shields.io/badge/Velog-C0C0C0?style=social&logo=Velog&logoColor=20C997"/>
-</a>
+
