@@ -11,22 +11,20 @@
 #### Tech Stack
 <img src="https://img.shields.io/badge/Python-5CB9FF?style=flat&logo=Python&logoColor=3776AB"/>
 <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=Go&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=OpenJDK&logoColor=white"/>
 <img src="https://img.shields.io/badge/HCL-5C4EE5?style=flat&logo=HashiCorp&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
 #### Studying
 <!-- AWS -->
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon%20AWS&logoColor=FF9900"/>
-
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=FF9900"/>
 <!-- Kafka -->
 <img src="https://img.shields.io/badge/Kafka-231F20?style=flat&logo=Apache%20Kafka&logoColor=white"/>
  
 <hr>
 
 #### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sunwupark&show_icons=true&theme=tokyonight)
-
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sunwupark&show_icons=true&theme=tokyonight)
 #### Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwupark&layout=compact&theme=tokyonight)
 
