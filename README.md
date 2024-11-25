@@ -31,11 +31,7 @@
 </div>
 
 #### Top Languages
-<div align="center"> 
-    <a href="">
-        ![Top Langs of Sunwu Park](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwupark&layout=compact&theme=radical)
-    </a>
-</div>
+![Top Langs of Sunwu Park](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwupark&layout=compact&theme=radical)
 
 <hr>
 
