@@ -33,7 +33,7 @@
 #### Top Languages
 <div align="center"> 
     <a href="">
-        <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sunwupark&theme=react&line_height=40&langs_count=5&hide=css,html,objective-c,makefile,jupyter%20notebook"/>
+        ![Top Langs of Sunwu Park](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwupark&layout=compact&theme=radical)
     </a>
 </div>
 
