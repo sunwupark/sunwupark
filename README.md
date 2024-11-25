@@ -31,7 +31,7 @@
 </div>
 
 #### Top Languages
-![Top Langs of Sunwu Park](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwupark&layout=compact&theme=radical&hide=objective-c,makefile,html,dart,c++)
+![Top Langs of Sunwu Park](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwupark&layout=compact&theme=radical&hide=makefile,html,dart)
 
 <hr>
 
