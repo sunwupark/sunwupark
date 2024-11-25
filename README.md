@@ -24,10 +24,9 @@
 <hr>
 
 #### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=sunwupark&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunwupark&count_private=true&show_icons=true&theme=radical)
 #### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwupark&layout=compact&theme=tokyonight)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunwupark&hide=javascript,html,jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 
 #### Contact
