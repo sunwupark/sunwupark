@@ -24,9 +24,14 @@
 <hr>
 
 #### GitHub Stats
-![Sunwu's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=sunwupark&count_private=true&show_icons=true&theme=radical)
+<a href="">
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sunwupark&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+</a>
 #### Top Languages
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sunwupark&hide=javascript,html,jupyter%20notebook&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sunwupark&theme=react&line_height=40&hide=css"/>
+    </a>
+
 <hr>
 
 #### Contact
